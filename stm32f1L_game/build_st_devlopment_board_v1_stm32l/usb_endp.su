@@ -1,0 +1,2 @@
+sources/platform/stm32l/usb/src/usb_endp.c:71:6:EP1_IN_Callback	0	static
+sources/platform/stm32l/usb/src/usb_endp.c:83:6:EP3_OUT_Callback	8	static

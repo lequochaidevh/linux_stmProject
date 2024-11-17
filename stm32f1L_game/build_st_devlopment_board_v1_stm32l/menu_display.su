@@ -1,0 +1,11 @@
+sources/app/menu_display.cpp:254:6:void view_scr_idle_menu()	0	static
+sources/app/menu_display.cpp:299:6:void scr_idle_handle_menu(ak_msg_t*)	8	static
+sources/app/menu_display.cpp:149:10:void ball_acc::moving()	48	static
+/home/devh/workspace/toolsf1/gcc-arm-none-eabi-10-2020-q4-major-x86_64-linux/gcc-arm-none-eabi-10-2020-q4-major/arm-none-eabi/include/c++/10.2.1/bits/vector.tcc:426:7:) [with _Args = {const ball_acc&}; _Tp = ball_acc; _Alloc = std::allocator<ball_acc>]	48	static
+/home/devh/workspace/toolsf1/gcc-arm-none-eabi-10-2020-q4-major-x86_64-linux/gcc-arm-none-eabi-10-2020-q4-major/arm-none-eabi/include/c++/10.2.1/bits/vector.tcc:426:7:) [with _Args = {const space_tank&}; _Tp = space_tank; _Alloc = std::allocator<space_tank>]	48	static
+sources/app/menu_display.cpp:348:6:void scr_acc_handle_menu(ak_msg_t*)	64	static
+sources/app/menu_display.cpp:410:1:cpp)	0	static
+sources/app/menu_display.cpp:410:1:cpp)	8	static
+sources/app/menu_display.cpp:209:6:void view_scr_start_wait()	8	static
+sources/app/menu_display.cpp:257:6:void view_scr_acc_menu()	32	static
+sources/app/menu_display.cpp:266:6:void scr_startup_handle_wait(ak_msg_t*)	8	static

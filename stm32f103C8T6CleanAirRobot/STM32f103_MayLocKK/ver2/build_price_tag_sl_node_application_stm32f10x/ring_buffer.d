@@ -1,0 +1,29 @@
+build_price_tag_sl_node_application_stm32f10x/ring_buffer.o: \
+ sources/common/ring_buffer.c \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdbool.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdlib.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/newlib.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_newlib_version.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/config.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/features.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stddef.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/reent.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_default_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/lock.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/cdefs.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/stdlib.h \
+ sources/common/ring_buffer.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdint.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_intsup.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_stdint.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/string.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/string.h \
+ sources/common/../sys/sys_dbg.h \
+ sources/common/../sys/../common/xprintf.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdarg.h

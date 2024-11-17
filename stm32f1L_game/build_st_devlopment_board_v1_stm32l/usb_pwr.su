@@ -1,0 +1,5 @@
+sources/platform/stm32l/usb/src/usb_pwr.c:71:8:PowerOn	16	static
+sources/platform/stm32l/usb/src/usb_pwr.c:114:8:PowerOff	16	static
+sources/platform/stm32l/usb/src/usb_pwr.c:141:6:Suspend	8	static
+sources/platform/stm32l/usb/src/usb_pwr.c:252:6:Resume_Init	0	static
+sources/platform/stm32l/usb/src/usb_pwr.c:292:6:Resume	8	static

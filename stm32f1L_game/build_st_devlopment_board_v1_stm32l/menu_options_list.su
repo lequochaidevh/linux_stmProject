@@ -1,0 +1,4 @@
+sources/app/menu_options_list.cpp:186:6:void ActuatorAction(char)	0	static
+sources/app/menu_options_list.cpp:171:6:void set_action(uint8_t)	0	static
+sources/app/menu_options_list.cpp:148:6:void action_menu()	8	static
+sources/app/menu_options_list.cpp:133:6:void MenuDisplay(Menu_t*, uint8_t)	16	static

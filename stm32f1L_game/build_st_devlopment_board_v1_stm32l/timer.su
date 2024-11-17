@@ -1,0 +1,6 @@
+sources/ak/src/timer.c:227:9:timer_remove_msg	24	static
+sources/ak/src/timer.c:84:6:task_timer_tick	16	static
+sources/ak/src/timer.c:153:6:timer_init	8	static
+sources/ak/src/timer.c:164:6:timer_tick	16	static
+sources/ak/src/timer.c:178:9:timer_set	32	static
+sources/ak/src/timer.c:265:9:timer_remove_attr	16	static

@@ -1,0 +1,62 @@
+build_price_tag_sl_node_application_stm32f10x/sys_dbg.o: \
+ sources/sys/sys_dbg.c sources/sys/sys_dbg.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdint.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_default_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/features.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_newlib_version.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_intsup.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_stdint.h \
+ sources/sys/../common/xprintf.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdarg.h \
+ sources/sys/sys_ctrl.h sources/sys/../app/app_data.h \
+ sources/sys/../app/app.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/string.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/newlib.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/config.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/reent.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stddef.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/lock.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/cdefs.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/string.h \
+ sources/sys/../driver/eeprom/eeprom.h \
+ sources/sys/../driver/flash/flash.h sources/sys/../common/utils.h \
+ sources/sys/../platform/stm32f10x/io_cfg.h \
+ sources/app/../driver/rtc/rtc.h sources/app/../driver/eeprom/eeprom.h \
+ sources/app/../platform/stm32f10x/io_cfg.h \
+ sources/sys/../platform/stm32f10x/sys_cfg.h \
+ sources/sys/../platform/stm32f10x/stm32f10x_conf.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_adc.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/CoreSupport/core_cm3.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/CoreSupport/core_cmInstr.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/CoreSupport/core_cmFunc.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h \
+ sources/platform/stm32f10x/stm32f10x_conf.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_bkp.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_can.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_cec.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_crc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dac.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dbgmcu.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dma.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_exti.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_flash.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_fsmc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_i2c.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_iwdg.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_pwr.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rtc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_sdio.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_spi.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_wwdg.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/misc.h

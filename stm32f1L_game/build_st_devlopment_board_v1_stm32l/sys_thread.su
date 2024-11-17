@@ -1,0 +1,3 @@
+sources/sys/sys_thread.c:14:6:sys_thread_create	8	static
+sources/sys/sys_thread.c:57:6:sys_thread_sheduler	0	static
+sources/sys/sys_thread.c:51:6:sys_thread_run	8	static

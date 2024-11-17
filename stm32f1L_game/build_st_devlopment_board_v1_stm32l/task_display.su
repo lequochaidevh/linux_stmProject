@@ -1,0 +1,34 @@
+sources/app/task_display.cpp:384:6:void view_scr_fw_updating()	8	static
+sources/app/task_display.cpp:311:6:void view_scr_idle()	32	static
+sources/app/task_display.cpp:391:6:void scr_fw_updating_handle(ak_msg_t*)	8	static
+sources/app/task_aircond_scene.h:101:6:int table_string_func::set_real(String, int)	24	static
+sources/app/task_aircond_scene.h:89:6:int table_string_func::get_exe(String)	24	static
+sources/app/task_aircond_scene.h:64:6:int table_string_func::operator()(String)	24	static
+sources/app/task_display.cpp:554:6:void scr_acc_handle(ak_msg_t*)	32	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Variant/VariantSlot.hpp:43:16:ArduinoJson6120_000001::VariantSlot* ArduinoJson6120_000001::VariantSlot::next()	0	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Collection/CollectionImpl.hpp:92:21:ArduinoJson6120_000001::VariantSlot* ArduinoJson6120_000001::CollectionData::getSlot(TAdaptedString) const [with TAdaptedString = ArduinoJson6120_000001::ConstRamStringAdapter]	16	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Serialization/DynamicStringWriter.hpp:42:10:size_t ArduinoJson6120_000001::DynamicStringWriter<String>::write(const uint8_t*, size_t)	16	static
+sources/app/task_display.cpp:35:2:ball::ball()	8	static
+sources/app/task_display.cpp:176:6:void task_display(ak_msg_t*)	0	static
+/home/devh/workspace/toolsf1/gcc-arm-none-eabi-10-2020-q4-major-x86_64-linux/gcc-arm-none-eabi-10-2020-q4-major/arm-none-eabi/include/c++/10.2.1/bits/vector.tcc:426:7:) [with _Args = {const ball&}; _Tp = ball; _Alloc = std::allocator<ball>]	48	static
+/home/devh/workspace/toolsf1/gcc-arm-none-eabi-10-2020-q4-major-x86_64-linux/gcc-arm-none-eabi-10-2020-q4-major/arm-none-eabi/include/c++/10.2.1/bits/stl_vector.h:1187:7:void std::vector<_Tp, _Alloc>::push_back(const value_type&) [with _Tp = ball; _Alloc = std::allocator<ball>]	24	static
+sources/app/task_display.cpp:317:6:void scr_idle_handle(ak_msg_t*)	64	static
+/home/devh/workspace/toolsf1/gcc-arm-none-eabi-10-2020-q4-major-x86_64-linux/gcc-arm-none-eabi-10-2020-q4-major/arm-none-eabi/include/c++/10.2.1/bits/vector.tcc:426:7:) [with _Args = {const line_segment&}; _Tp = line_segment; _Alloc = std::allocator<line_segment>]	40	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Variant/VariantData.hpp:342:16:ArduinoJson6120_000001::VariantData* ArduinoJson6120_000001::VariantData::getMember(TAdaptedString) const [with TAdaptedString = ArduinoJson6120_000001::ConstRamStringAdapter]	0	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Array/ElementProxy.hpp:109:14:ArduinoJson6120_000001::VariantRef ArduinoJson6120_000001::ElementProxy< <template-parameter-1-1> >::getMember(TNestedKey*) const [with TNestedKey = const char; TArray = const ArduinoJson6120_000001::ArrayRef&]	16	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Object/ObjectFunctions.hpp:26:21:ArduinoJson6120_000001::VariantData* ArduinoJson6120_000001::objectGet(const ArduinoJson6120_000001::CollectionData*, TAdaptedString) [with TAdaptedString = ArduinoJson6120_000001::ConstRamStringAdapter]	0	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Numbers/parseNumber.hpp:55:36:ArduinoJson6120_000001::ParsedNumber<TFloat, TUInt> ArduinoJson6120_000001::parseNumber(const char*) [with TFloat = float; TUInt = unsigned int]	24	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Variant/VariantAs.hpp:55:59:typename ArduinoJson6120_000001::enable_if<ArduinoJson6120_000001::is_integral<T>::value, T>::type ArduinoJson6120_000001::variantAs(const ArduinoJson6120_000001::VariantData*) [with T = int]	24	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Json/TextFormatter.hpp:128:8:void ArduinoJson6120_000001::TextFormatter<TWriter>::writeRaw(const char*) [with TWriter = ArduinoJson6120_000001::DynamicStringWriter<String>]	16	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Json/TextFormatter.hpp:145:8:void ArduinoJson6120_000001::TextFormatter<TWriter>::writeRaw(char) [with TWriter = ArduinoJson6120_000001::DynamicStringWriter<String>]	8	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Json/TextFormatter.hpp:34:8:void ArduinoJson6120_000001::TextFormatter<TWriter>::writeString(const char*) [with TWriter = ArduinoJson6120_000001::DynamicStringWriter<String>]	16	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Numbers/FloatParts.hpp:20:3:ArduinoJson6120_000001::FloatParts<TFloat>::FloatParts(TFloat) [with TFloat = float]	32	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Json/TextFormatter.hpp:136:8:void ArduinoJson6120_000001::TextFormatter<TWriter>::writeRaw(const char*, const char*) [with TWriter = ArduinoJson6120_000001::DynamicStringWriter<String>]	8	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Json/TextFormatter.hpp:96:8:void ArduinoJson6120_000001::TextFormatter<TWriter>::writePositiveInteger(T) [with T = long unsigned int; TWriter = ArduinoJson6120_000001::DynamicStringWriter<String>]	40	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Json/TextFormatter.hpp:55:8:void ArduinoJson6120_000001::TextFormatter<TWriter>::writeFloat(T) [with T = float; TWriter = ArduinoJson6120_000001::DynamicStringWriter<String>]	56	static
+./sources/libraries/ArduinoJson/src/ArduinoJson/Variant/VariantData.hpp:27:8:void ArduinoJson6120_000001::VariantData::accept(Visitor&) const [with Visitor = ArduinoJson6120_000001::JsonSerializer<ArduinoJson6120_000001::DynamicStringWriter<String> >]	16	static
+sources/app/task_display.cpp:599:1:cpp)	16	static
+sources/app/task_display.cpp:599:1:cpp)	16	static
+sources/app/task_display.cpp:181:6:void view_scr_startup()	24	static
+sources/app/task_display.cpp:274:6:void scr_startup_handle(ak_msg_t*)	8	static
+sources/app/task_display.cpp:418:6:void view_scr_acc()	112	static

@@ -1,0 +1,9 @@
+sources/app/app.cpp:130:5:int main_app()	104	static
+sources/app/app.cpp:256:6:void task_polling_zigbee()	0	static
+sources/app/app.cpp:262:6:void task_polling_console()	24	static
+sources/app/app.cpp:352:6:void sys_irq_timer_10ms()	8	static
+sources/app/app.cpp:361:6:void sys_irq_timer_50us()	0	static
+sources/app/app.cpp:367:6:void sys_irq_timer_hs1101()	0	static
+sources/app/app.cpp:373:6:void sys_irq_ir_io_rev()	0	static
+sources/app/app.cpp:376:6:void sys_irq_usb_recv(uint8_t*, uint32_t)	0	static
+sources/app/app.cpp:387:7:void* app_get_boot_share_data()	0	static

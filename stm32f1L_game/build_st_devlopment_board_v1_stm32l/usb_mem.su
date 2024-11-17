@@ -1,0 +1,2 @@
+sources/platform/stm32l/Libraries/STM32_USB-FS-Device_Driver/src/usb_mem.c:68:6:UserToPMABufferCopy	0	static
+sources/platform/stm32l/Libraries/STM32_USB-FS-Device_Driver/src/usb_mem.c:107:6:PMAToUserBufferCopy	0	static

@@ -1,0 +1,1 @@
+sources/app/rf_remote_ctrl.cpp:25:6:void rf_printf(uint8_t*, uint32_t)	0	static

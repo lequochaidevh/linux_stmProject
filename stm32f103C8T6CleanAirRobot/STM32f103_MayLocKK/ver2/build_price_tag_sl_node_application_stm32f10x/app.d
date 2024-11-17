@@ -1,0 +1,99 @@
+build_price_tag_sl_node_application_stm32f10x/app.o: sources/app/app.cpp \
+ sources/app/../driver/led/led.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdint.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdint.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_default_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/features.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_newlib_version.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_intsup.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_stdint.h \
+ sources/app/../driver/flash/flash.h \
+ sources/app/../driver/Arduino-LiquidCrystal-I2C-library/LiquidCrystal_I2C.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/inttypes.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/newlib.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/config.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stddef.h \
+ sources/platform/stm32f10x/arduino/Print.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdio.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/cdefs.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdarg.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/reent.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/_ansi.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/_types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/lock.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/types.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/stdio.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/string.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/sys/string.h \
+ sources/platform/stm32f10x/arduino/Printable.h \
+ sources/platform/stm32f10x/arduino/Print.h \
+ sources/app/../driver/modbus_rtu/modbus_rtu.h \
+ sources/platform/stm32f10x/arduino/Arduino.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/stdlib.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/machine/stdlib.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/lib/gcc/arm-none-eabi/5.4.1/include/stdbool.h \
+ /home/devh/Documents/Learn_Arm/Bai5_Usart2_tx_qtGUI/gcc_arm/gcc-arm-none-eabi-5_4-2016q3/arm-none-eabi/include/math.h \
+ sources/platform/stm32f10x/arduino/../../../sys/sys_ctrl.h \
+ sources/platform/stm32f10x/arduino/../../../sys/../app/app_data.h \
+ sources/platform/stm32f10x/arduino/../../../sys/../app/app.h \
+ sources/platform/stm32f10x/arduino/../../../sys/sys_io.h \
+ sources/platform/stm32f10x/arduino/../../../sys/../platform/stm32f10x/io_cfg.h \
+ sources/app/../driver/rtc/rtc.h sources/app/../driver/eeprom/eeprom.h \
+ sources/app/../platform/stm32f10x/io_cfg.h \
+ sources/platform/stm32f10x/arduino/../sys_cfg.h \
+ sources/platform/stm32f10x/arduino/../stm32f10x_conf.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_adc.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/CoreSupport/core_cm3.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/CoreSupport/core_cmInstr.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/CoreSupport/core_cmFunc.h \
+ sources/platform/stm32f10x/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h \
+ sources/platform/stm32f10x/stm32f10x_conf.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_bkp.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_can.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_cec.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_crc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dac.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dbgmcu.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dma.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_exti.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_flash.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_fsmc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_i2c.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_iwdg.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_pwr.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rtc.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_sdio.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_spi.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_wwdg.h \
+ sources/platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/misc.h \
+ sources/app/../common/cmd_line.h sources/app/../common/utils.h \
+ sources/app/../common/xprintf.h sources/app/app.h sources/app/app_dbg.h \
+ sources/app/../common/xprintf.h sources/driver/EmonLib/EmonLib.h \
+ sources/app/../platform/stm32f10x/arduino/Arduino.h \
+ sources/app/../driver/EmonLib/EmonLib.h sources/app/../driver/sys/sys.h \
+ sources/platform/stm32f10x/arduino/Arduino.h \
+ sources/app/../platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/misc.h \
+ sources/app/../platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h \
+ sources/app/../platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h \
+ sources/app/../platform/stm32f10x/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h \
+ sources/app/../driver/delay/delay.h \
+ sources/app/../driver/delay/../sys/sys.h \
+ sources/app/../driver/DHT11/dht11.h \
+ sources/app/../driver/DHT11/../sys/sys.h sources/app/../driver/ADC/adc.h \
+ sources/app/../driver/ADC/../sys/sys.h sources/app/app.h \
+ sources/app/app_dbg.h sources/app/../sys/sys_irq.h \
+ sources/app/../sys/sys_io.h sources/app/../sys/sys_ctrl.h \
+ sources/app/../sys/sys_dbg.h sources/app/../sys/../common/xprintf.h \
+ sources/app/../sys/sys_arduino.h \
+ sources/app/../sys/../platform/stm32f10x/arduino/Arduino.h \
+ sources/app/../sys/../platform/stm32f10x/arduino/SPI/SPI.h \
+ sources/platform/stm32f10x/io_cfg.h sources/app/../common/utils.h
